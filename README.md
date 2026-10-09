@@ -8,9 +8,9 @@ Most people with a legal right never use it: the law looks too confusing, too ex
 > Gotchu is a research prototype: general information, not legal advice.
 
 <p>
-  <img src="screenshots/1-home.png" width="32%" alt="Home screen: choose your problem">
-  <img src="screenshots/2-story.png" width="32%" alt="Describe what happened in your own words">
-  <img src="screenshots/3-readback.png" width="32%" alt="Readback: check what the app understood">
+  <img src="./1-home.png" width="32%" alt="Home screen: choose your problem">
+  <img src="./2-story.png" width="32%" alt="Describe what happened in your own words">
+  <img src="./3-readback.png" width="32%" alt="Readback: check what the app understood">
 </p>
 
 ## How it works
